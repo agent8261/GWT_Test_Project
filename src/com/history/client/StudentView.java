@@ -6,6 +6,6 @@ public class StudentView extends LayoutPanel
 {
   public StudentView()
   {
-    
+    super();
   }
 }
