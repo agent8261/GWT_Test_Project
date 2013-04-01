@@ -5,12 +5,12 @@ import com.google.gwt.user.client.ui.RootLayoutPanel;
 
 public class Default implements EntryPoint
 {
-  DockLayout panel = new DockLayout();
+  //DockLayout panel = new DockLayout();
   
   @Override
   public void onModuleLoad()
   {
-    RootLayoutPanel.get().add(panel);
+    //RootLayoutPanel.get().add(panel);
   }
 
 }
